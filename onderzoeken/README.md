@@ -7,3 +7,9 @@ Vandaag heb ik gewerkt aan mijn verslag. Hierbij heb ik gewerkt aan mijn long li
 ![image](https://github.com/user-attachments/assets/30652e3f-cbee-4d34-8633-28daecd5c1b3)
 
 Bleek dus dat ik cd basic moest neerzetten om naar de map te refeneren. Gelukkig werkte het toen wel en kon ik het programma openen.
+
+## 10-9-2024
+
+Vandaag heb ik gewerkt hoe ik een project in Laravel moet starten tijdens de les. Hier zijn we 3 uur mee bezig geweest. Ik heb een about-us pagina toegevoegd
+
+![image](https://github.com/user-attachments/assets/235d0103-86f5-4ba2-89af-2b24ac21cf4c)
