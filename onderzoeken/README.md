@@ -10,6 +10,9 @@ Bleek dus dat ik cd basic moest neerzetten om naar de map te refeneren. Gelukkig
 
 ## 10-9-2024
 
-Vandaag heb ik gewerkt hoe ik een project in Laravel moet starten tijdens de les. Hier zijn we 3 uur mee bezig geweest. Ik heb een about-us pagina toegevoegd
+Vandaag heb ik gewerkt hoe ik een project in Laravel moet starten tijdens de les. Hier zijn we 3 uur mee bezig geweest. Ik heb een about-us pagina toegevoegd.
 
 ![image](https://github.com/user-attachments/assets/235d0103-86f5-4ba2-89af-2b24ac21cf4c)
+
+Net heb ik een controller toegevoegd aan de about-us.
+![image](https://github.com/user-attachments/assets/99f21630-71a1-4514-b67c-75d399de2c92)
