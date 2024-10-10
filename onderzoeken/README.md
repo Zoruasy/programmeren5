@@ -21,4 +21,4 @@ Ik vond het vooral moeilijk bij te houden, omdat er veel informatie werd gegeven
 
 ## 10-10-2024
 
-Thuis ben ik bezig geweest met mijn onderzoeksverslag. Ik heb mijn long-list afgerond en concreet neergezet en mijn short-list afgemaakt. Ik heb codeigniter gedownload en ben nu bezig met de controller, view & route van alle 3 de frameworks. 
+Thuis ben ik bezig geweest met mijn onderzoeksverslag. Ik heb mijn long-list afgerond en concreet neergezet en mijn short-list afgemaakt. Ik heb codeigniter gedownload en ben nu bezig met de controller, view & route van alle 3 de frameworks. Ik heb alle 3 de frames afgerond met route, view en controller. De moeilijkste vond ik toch wel Laravel, want bij de andere frames leek het gemakkelijker te gaan dan bij Laravel. 
