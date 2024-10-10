@@ -16,3 +16,9 @@ Vandaag heb ik gewerkt hoe ik een project in Laravel moet starten tijdens de les
 
 Net heb ik een controller toegevoegd aan de about-us.
 ![image](https://github.com/user-attachments/assets/99f21630-71a1-4514-b67c-75d399de2c92)
+
+Ik vond het vooral moeilijk bij te houden, omdat er veel informatie werd gegeven in de les en het te snel ging, ik vind het wel fijn dat er een guide online staat op CMGT zodat ik het altijd kan terug bekijken.
+
+## 10-10-2024
+
+Thuis ben ik bezig geweest met mijn onderzoeksverslag. Ik heb mijn long-list afgerond en concreet neergezet en mijn short-list afgemaakt. Ik heb codeigniter gedownload en ben nu bezig met de controller, view & route van alle 3 de frameworks. 
